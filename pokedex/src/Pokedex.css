@@ -1,0 +1,11 @@
+.Pokedex {
+  text-align: center;
+}
+
+.Pokedex-Cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: auto;
+  margin: 15px;
+  padding: 15px;
+}
